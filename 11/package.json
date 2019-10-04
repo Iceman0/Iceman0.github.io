@@ -1,0 +1,23 @@
+{
+  "name": "hello-nodejs",
+  "version": "1.0.0",
+  "description": "soimple program inJs node for js",
+  "main": "hello.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-minify": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "nodejs"
+  ],
+  "author": "Ivan",
+  "license": "MIT"
+}

@@ -1,0 +1,23 @@
+h1 {
+	font-size: 1em
+}
+@import 'https://fonts.googleapis.com/css?family=Ubuntu:400,500&subset=latin,cyrillic';
+
+html, body {
+	width: 99%; height: 90%;
+}
+body {
+	font-family: 'Ubuntu', serif; font-size: 36px;
+	background: white; color: black;
+}
+.translate {
+	display: flex; width: 100%; height: 100%;
+	justify-content: center; align-items: center;
+}
+
+.changeBtn{
+	background: url(change.jpg) no-repeat;
+	background-size: contain;
+	height:20px;
+	width: 20px;
+}
